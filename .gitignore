@@ -1,0 +1,6 @@
+.updatebot-repos
+bin
+obj
+.idea/
+.vs/
+*.user
